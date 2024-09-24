@@ -5,9 +5,7 @@ equations are expressed in the following equations:
 
 $$\frac{{dF}_{i}}{dW} = - {r'}_{i}$$
 
-
 $$\frac{dp}{dW} = \frac{- \alpha}{2}\frac{Ft}{{Ft}_{0}}\frac{T}{T_{0}}\frac{P_{0}}{P}$$
-
 
 $\frac{dT}{dW} = \frac{\sum_{i = 1}^{q}{{r^{'}}_{ij}{\mathrm{\Delta}H}_{Rij}(T) - \frac{U_{a}}{\rho_{b}}(T - T_{a})}}{\sum_{}^{}{F_{j}{Cp}_{j}}}$
 
